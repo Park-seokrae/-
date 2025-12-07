@@ -20,4 +20,7 @@
 
 ### 학습된 가중치 저장 파일
     - 용량 제한으로 올라가지 않음
-    - 
+    - 구글드라이브 링크 (https://drive.google.com/drive/folders/1V1ayAfCFevYeflslYJ8AGXfVTvixJ8AY?usp=sharing)
+    - test 1,2,3 은 누락됨
+    - 각 폴더내에 check point(EP 50마다 저장됨), final_model, best_model(early stop 한 경우) 저장되어 있음
+    
