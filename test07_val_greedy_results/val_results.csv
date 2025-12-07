@@ -1,0 +1,15 @@
+case,steps,total_reward,reason,png_path
+01018ug_86,3,-0.2204882236078879,out_of_vessel,../results/test07_val_greedy_results/01018ug_86_traj.png
+01018ug_72,2,-1.0,out_of_vessel,../results/test07_val_greedy_results/01018ug_72_traj.png
+01018ug_87,4,1.0309775737709268,out_of_vessel,../results/test07_val_greedy_results/01018ug_87_traj.png
+01010ug_8,72,70.57690668235752,out_of_vessel,../results/test07_val_greedy_results/01010ug_8_traj.png
+01018ug_85,3,-0.0496684130736228,out_of_vessel,../results/test07_val_greedy_results/01018ug_85_traj.png
+01015ug_92,3,0.060211944907105464,out_of_vessel,../results/test07_val_greedy_results/01015ug_92_traj.png
+01015ug_97,2,-1.0,out_of_vessel,../results/test07_val_greedy_results/01015ug_97_traj.png
+01010ug_134,4,1.2275279385632736,out_of_vessel,../results/test07_val_greedy_results/01010ug_134_traj.png
+01010ug_164,3,0.2945869266986847,out_of_vessel,../results/test07_val_greedy_results/01010ug_164_traj.png
+01011ug_529,4,1.1571750108149135,out_of_vessel,../results/test07_val_greedy_results/01011ug_529_traj.png
+01018ug_81,74,67.85508155909213,out_of_vessel,../results/test07_val_greedy_results/01018ug_81_traj.png
+01018ug_84,9,6.991852029139973,out_of_vessel,../results/test07_val_greedy_results/01018ug_84_traj.png
+01011ug_502,21,21.366065760891306,out_of_vessel,../results/test07_val_greedy_results/01011ug_502_traj.png
+01010ug_174,2,-1.0,out_of_vessel,../results/test07_val_greedy_results/01010ug_174_traj.png
