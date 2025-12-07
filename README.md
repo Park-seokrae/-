@@ -1,2 +1,11 @@
 # -
-서강대학교 AI/SW 대학원
+서강대학교 AI/SW 대학원 A69025 박석래
+
+## Notebooks 
+### 00. DICOM_mask_preprocessing.ipynb 
+    - 전처리 했던 코드모음
+    - Centerline 추출 코드 포함 
+### 01. test (1_4), test(5), test(6), test(7), test(08), test(09)
+    - 실제 학습 및 validation 시각화 까지 사용했던 코드
+    - pdf 의 test07 파일은 test(09).ipynb 임
+    - 01. test(7).ipynb 및 01. test(08).ipynb 는 pdf 에 작성하지 않는 실험임
