@@ -14,4 +14,6 @@
     - pdf 의 test07 파일은 test(09).ipynb 임
     - 01. test(7).ipynb 및 01. test(08).ipynb 는 pdf 에 작성하지 않는 실험임
 
-### 
+### test 폴더들 
+    - 학습후 validation 의 시각화 png 모음집임 
+    - 이전 test 1,2,3 은 누락됨
