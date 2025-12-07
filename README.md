@@ -24,3 +24,5 @@
     - test 1,2,3 은 누락됨
     - 각 폴더내에 check point(EP 50마다 저장됨), final_model, best_model(early stop 한 경우) 저장되어 있음
     
+### 학습 데이터
+    - 사내 데이터로 공유가 제한됨
